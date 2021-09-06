@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aidyn (@tzxaiden) Fullstack developer from  Chicago, USA, currently living in  Chicago, USA.
-
+second student-github >> https://github.com/aidyn1984
 
 - 👀 I’m interested in ROR, JavaScript, React/Redux, Python, AWS, SQL, Node
 - 🌱 I’m currently learning alghoritms and data structures
